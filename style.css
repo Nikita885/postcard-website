@@ -51,6 +51,7 @@
     padding: 0;
     gap: 3vw;
     backdrop-filter: blur(6px);
+    flex-direction: row;
 }
 
 .video-close {
@@ -139,6 +140,7 @@
         align-items: center;
         justify-content: center;
         gap: 2vw;
+        flex-direction: column;
     }
     #custom-video {
         width: 96vw;
@@ -153,11 +155,19 @@
         width: 38px;
         height: 38px;
         font-size: 1.5rem;
+        margin: 8px 0;
     }
     .title_text {
         font-size: 7vw !important;
         max-width: 90vw;
         word-break: break-word;
+    }
+    .video-close {
+        right: 8px;
+        top: 8px;
+        left: auto;
+        transform: none;
+        margin: 0;
     }
 }
 
