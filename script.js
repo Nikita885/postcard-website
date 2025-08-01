@@ -149,6 +149,7 @@ const videoFiles = [
     'video/12.MP4',
     'video/13.MP4',
     'video/14.MP4',
+    'video/15.MP4',
 ];
 let currentVideo = 0;
 
