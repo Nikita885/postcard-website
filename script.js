@@ -135,20 +135,20 @@ function animateCloudsMove() {
 
 // --- Video Player ---
 const videoFiles = [
-    'video/1.mp4',
-    'video/2.mp4',
-    'video/3.mp4',
-    'video/4.mp4',
-    'video/5.mp4',
-    'video/6.mp4',
-    'video/7.mp4',
-    'video/8.mp4',
-    'video/9.mp4',
-    'video/10.mp4',
-    'video/11.mp4',
-    'video/12.mp4',
-    'video/13.mp4',
-    'video/14.mp4',
+    'video/1.MP4',
+    'video/2.MP4',
+    'video/3.MP4',
+    'video/4.MP4',
+    'video/5.MP4',
+    'video/6.MP4',
+    'video/7.MP4',
+    'video/8.MP4',
+    'video/9.MP4',
+    'video/10.MP4',
+    'video/11.MP4',
+    'video/12.MP4',
+    'video/13.MP4',
+    'video/14.MP4',
 ];
 let currentVideo = 0;
 
